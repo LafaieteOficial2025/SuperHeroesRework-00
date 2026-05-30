@@ -1,0 +1,8 @@
+{
+  "name": "The Flash",
+  "description": "Fastest man alive",
+  "color": "CC0000",
+  "universe": "dc",
+  "alignment": "hero",
+  "abilities": ["speedster", "dash"]
+}

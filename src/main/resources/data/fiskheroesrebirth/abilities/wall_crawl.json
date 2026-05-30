@@ -1,0 +1,9 @@
+{
+  "id": "wall_crawl",
+  "name": "Wall Crawl",
+  "energy_cost": 1,
+  "cooldown": 0,
+  "animation": "crawl_wall",
+  "effect_type": "passive",
+  "allow_wall_walk": true
+}

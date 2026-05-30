@@ -1,0 +1,8 @@
+{
+  "name": "Jesus",
+  "tier": 14,
+  "power": "divinity",
+  "health": 999999,
+  "damage": 999999,
+  "unlock_requirement": "all_suits_unlocked"
+}

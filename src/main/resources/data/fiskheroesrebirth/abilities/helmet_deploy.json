@@ -1,0 +1,10 @@
+{
+  "id": "helmet_deploy",
+  "name": "Helmet Deploy",
+  "energy_cost": 0,
+  "cooldown": 40,
+  "animation": "mk46_helmet",
+  "duration": 20,
+  "effect_type": "transformation",
+  "sound": "fiskheroesrebirth:helmet.deploy"
+}

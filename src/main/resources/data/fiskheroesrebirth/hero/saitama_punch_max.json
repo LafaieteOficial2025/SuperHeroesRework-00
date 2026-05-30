@@ -1,0 +1,9 @@
+{
+  "name": "Saitama Punch Max",
+  "tier": 14,
+  "power": "one_punch",
+  "health": 9999,
+  "damage": 99999,
+  "unlock_xp": 999999,
+  "unlock_gold": 9999
+}

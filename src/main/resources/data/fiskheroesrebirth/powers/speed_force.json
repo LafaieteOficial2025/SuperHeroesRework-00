@@ -1,0 +1,9 @@
+{
+  "id": "speed_force",
+  "name": "Speed Force",
+  "type": "speed",
+  "max_energy": 100,
+  "regen_rate": 2.0,
+  "abilities": ["super_speed", "phase", "lightning_kick"],
+  "passive_effects": ["fast_metabolism", "lightning_immunity"]
+}

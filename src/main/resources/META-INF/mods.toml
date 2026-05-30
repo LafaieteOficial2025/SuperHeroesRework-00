@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="fiskheroesrebirth"
+version="1.0.0"
+displayName="Fisk Heroes Rebirth"
+authors="YourName"
+description='''
+Sistema completo de heroes com powers, suits e animacoes FSK
+'''
+
+[[dependencies.fiskheroesrebirth]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.fiskheroesrebirth]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"

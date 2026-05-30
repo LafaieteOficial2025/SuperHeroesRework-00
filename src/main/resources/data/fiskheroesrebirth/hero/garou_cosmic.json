@@ -1,0 +1,9 @@
+{
+  "name": "Garou Cosmic",
+  "tier": 14,
+  "power": "cosmic_mode",
+  "health": 15000,
+  "damage": 85000,
+  "unlock_xp": 1500000,
+  "unlock_gold": 12000
+}

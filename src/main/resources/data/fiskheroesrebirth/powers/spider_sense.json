@@ -1,0 +1,9 @@
+{
+  "id": "spider_sense",
+  "name": "Spider Sense",
+  "type": "sense",
+  "max_energy": 50,
+  "regen_rate": 5.0,
+  "abilities": ["wall_crawl", "web_shoot", "spider_sense"],
+  "passive_effects": ["danger_detection", "enhanced_agility"]
+}

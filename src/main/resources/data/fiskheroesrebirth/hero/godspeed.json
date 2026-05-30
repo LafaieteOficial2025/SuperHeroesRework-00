@@ -1,0 +1,9 @@
+{
+  "name": "Godspeed",
+  "tier": 7,
+  "power": "white_lightning",
+  "speed": 700,
+  "health": 55,
+  "unlock_xp": 4500,
+  "unlock_gold": 75
+}

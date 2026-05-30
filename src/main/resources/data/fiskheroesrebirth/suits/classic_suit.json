@@ -1,0 +1,12 @@
+{
+  "id": "classic_suit",
+  "hero": "spider_man",
+  "name": "Classic Spider-Man Suit",
+  "texture": "fiskheroesrebirth:textures/suits/spider_classic.png",
+  "model": "humanoid",
+  "armor_value": 4,
+  "boost_speed": 0.3,
+  "boost_jump": 0.5,
+  "first_person_arms": true,
+  "wall_crawl": true
+}

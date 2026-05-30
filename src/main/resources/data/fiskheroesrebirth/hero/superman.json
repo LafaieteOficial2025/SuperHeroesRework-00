@@ -1,0 +1,9 @@
+{
+  "id": "superman",
+  "name": "Superman",
+  "tier": 8,
+  "flight": true,
+  "laser_eyes": true,
+  "unlock_xp": 15000,
+  "irisdescent_gold": 300
+}

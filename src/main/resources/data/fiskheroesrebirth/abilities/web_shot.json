@@ -1,0 +1,11 @@
+{
+  "id": "web_shot",
+  "name": "Web Shot",
+  "energy_cost": 3,
+  "cooldown": 5,
+  "animation": "web_shoot_right",
+  "effect_type": "projectile",
+  "projectile": "web",
+  "range": 20,
+  "sound": "fiskheroesrebirth:web.shoot"
+}

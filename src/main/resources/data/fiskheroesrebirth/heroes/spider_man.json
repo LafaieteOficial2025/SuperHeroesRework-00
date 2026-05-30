@@ -1,0 +1,8 @@
+{
+  "name": "Spider-Man",
+  "description": "Friendly neighborhood Spider-Man",
+  "color": "FF0000",
+  "universe": "marvel",
+  "alignment": "hero",
+  "abilities": ["wall_crawl", "web_swing"]
+}

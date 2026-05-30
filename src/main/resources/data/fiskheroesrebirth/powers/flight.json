@@ -1,0 +1,9 @@
+{
+  "id": "flight",
+  "name": "Flight",
+  "type": "movement",
+  "max_energy": 100,
+  "regen_rate": 0.5,
+  "abilities": ["hover", "dive", "boost"],
+  "passive_effects": ["no_fall_damage"]
+}

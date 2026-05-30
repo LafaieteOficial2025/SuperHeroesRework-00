@@ -1,0 +1,9 @@
+{
+  "name": "Flash",
+  "tier": 5,
+  "power": "speed_force",
+  "speed": 500,
+  "health": 40,
+  "unlock_xp": 1500,
+  "unlock_gold": 25
+}

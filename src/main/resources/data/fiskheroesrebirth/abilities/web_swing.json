@@ -1,0 +1,9 @@
+{
+  "id": "web_swing",
+  "name": "Web Swing",
+  "energy_cost": 2,
+  "cooldown": 0,
+  "animation": "swing_default",
+  "effect_type": "movement",
+  "sound": "fiskheroesrebirth:web.swing"
+}

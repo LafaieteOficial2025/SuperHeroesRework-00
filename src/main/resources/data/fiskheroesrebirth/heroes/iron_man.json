@@ -1,0 +1,8 @@
+{
+  "name": "Iron Man",
+  "description": "Genius billionaire playboy philanthropist",
+  "color": "A52A2A",
+  "universe": "marvel",
+  "alignment": "hero",
+  "abilities": ["flight", "repulsor_beam"]
+}

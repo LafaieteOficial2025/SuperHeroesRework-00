@@ -1,0 +1,11 @@
+{
+  "id": "super_speed",
+  "name": "Super Speed",
+  "energy_cost": 5,
+  "cooldown": 0,
+  "animation": "speedster_sprint",
+  "effect_type": "movement",
+  "speed_multiplier": 5.0,
+  "particle": "lightning",
+  "sound": "fiskheroesrebirth:speedster.run"
+}

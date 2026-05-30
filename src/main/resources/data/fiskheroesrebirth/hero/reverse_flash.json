@@ -1,0 +1,9 @@
+{
+  "name": "Reverse Flash",
+  "tier": 6,
+  "power": "negative_speed_force",
+  "speed": 550,
+  "health": 45,
+  "unlock_xp": 2500,
+  "unlock_gold": 40
+}

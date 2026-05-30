@@ -1,0 +1,12 @@
+{
+  "id": "flash_suit",
+  "hero": "flash",
+  "name": "Flash Suit",
+  "texture": "fiskheroesrebirth:textures/suits/flash.png",
+  "model": "humanoid",
+  "armor_value": 6,
+  "boost_speed": 0.5,
+  "boost_jump": 0.2,
+  "first_person_arms": true,
+  "glow_effect": false
+}

@@ -1,0 +1,12 @@
+{
+  "id": "repulsor_blast",
+  "name": "Repulsor Blast",
+  "energy_cost": 15,
+  "cooldown": 20,
+  "animation": "dual_hand_beam",
+  "effect_type": "ranged_attack",
+  "damage": 8.0,
+  "range": 32,
+  "particle": "energy_beam",
+  "sound": "fiskheroesrebirth:repulsor.fire"
+}

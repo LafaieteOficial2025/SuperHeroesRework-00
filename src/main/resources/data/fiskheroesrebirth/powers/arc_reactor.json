@@ -1,0 +1,9 @@
+{
+  "id": "arc_reactor",
+  "name": "Arc Reactor",
+  "type": "energy",
+  "max_energy": 200,
+  "regen_rate": 1.0,
+  "abilities": ["repulsor_blast", "unibeam", "missile"],
+  "passive_effects": ["flight_capable", "armor_protection"]
+}

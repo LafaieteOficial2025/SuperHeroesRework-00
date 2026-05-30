@@ -1,0 +1,13 @@
+{
+  "id": "mk46_suit",
+  "hero": "iron_man",
+  "name": "Mark 46 Armor",
+  "texture": "fiskheroesrebirth:textures/suits/mk46.png",
+  "model": "iron_man_mk46",
+  "armor_value": 20,
+  "boost_speed": 0.2,
+  "flight_capable": true,
+  "helmet_animation": "mk46_helmet",
+  "first_person_arms": false,
+  "glow_effect": true
+}
