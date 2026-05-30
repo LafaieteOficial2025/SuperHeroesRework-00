@@ -10,9 +10,6 @@
 [![Java](https://img.shields.io/badge/Java-17-ED8B00.svg?style=for-the-badge&logo=openjdk)](https://www.java.com)
 [![Status](https://img.shields.io/badge/Status-In_Development-blue.svg?style=for-the-badge)]()
 
-[![Stars](https://img.shields.io/github/stars/LafaieteOficial2025/SuperHeroesRework-00?style=social)](https://github.com/LafaieteOficial2025/SuperHeroesRework-00/stargazers)
-[![Forks](https://img.shields.io/github/forks/LafaieteOficial2025/SuperHeroesRework-00?style=social)](https://github.com/LafaieteOficial2025/SuperHeroesRework-00/network/members)
-
 </div>
 
 ---
@@ -65,14 +62,6 @@ Inspired by the legendary [Fisk's Superheroes](https://www.curseforge.com/minecr
 - [ ] Documentation
 - [ ] Public beta
 
-### 🎯 Future Goals
-
-- 🎬 Visual animation editor
-- 🌐 Hero pack system
-- 📚 Comprehensive wiki
-- 🌍 Multi-language support
-- 🤝 Community contributions
-
 ---
 
 ## 🛠️ Tech Stack
@@ -91,7 +80,7 @@ Inspired by the legendary [Fisk's Superheroes](https://www.curseforge.com/minecr
 When released:
 
 1. Install [Minecraft Forge 1.20.1](https://files.minecraftforge.net/)
-2. Download the latest release from [Releases](https://github.com/LafaieteOficial2025/SuperHeroesRework-00/releases)
+2. Download the latest release
 3. Place the `.jar` file in your `mods` folder
 4. Launch Minecraft
 
@@ -99,7 +88,7 @@ When released:
 
 ## 🤝 Contributing
 
-Contributions are welcome and encouraged! This is a **community-driven project**.
+Contributions are welcome! This is a community-driven project.
 
 ### How to Help
 
@@ -109,99 +98,47 @@ Contributions are welcome and encouraged! This is a **community-driven project**
 - 💻 **Code Review** (Java development)
 - 📝 **Documentation** (wiki, guides)
 - 🌍 **Translation** (lang files)
-- 🐛 **Bug Reports** (testing)
-- 💡 **Ideas** (suggestions)
-
-### Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/LafaieteOficial2025/SuperHeroesRework-00.git
-
-# Open in your IDE (IntelliJ IDEA recommended)
-# Run gradle setup
-./gradlew genIntellijRuns
-
-# Build the project
-./gradlew build
-This is an **independent, original work** - not a port or copy of any existing mod.
-
-## ✨ Features
-
-### Planned
-- 🦸 Original hero archetypes inspired by classic comic tropes
-- ⚡ Modular ability system with cooldowns and energy
-- 🎬 Custom `.frb` animation format (open source spec)
-- 🎨 Blockbench plugin for easy animation creation
-- 🌐 Network-synchronized gameplay
-- 🎮 Modern HUD with energy/ability indicators
-
-### Current Status
-- 🚧 Early development
-- 🔨 Building core systems
-- 📚 Documentation in progress
-
-## 🚀 Roadmap
-
-- [x] Project structure setup
-- [x] Basic data system (SHData)
-- [x] Hero registry
-- [x] Ability framework
-- [ ] Animation engine
-- [ ] First playable hero
-- [ ] Documentation
-- [ ] Public beta
-
-## 🛠️ Tech Stack
-
-- **Java 17**
-- **Minecraft Forge 1.20.1**
-- **Custom .frb animation format**
-- **Blockbench integration**
-
-## 📦 Installation
-
-🚧 *Not yet available - mod is in early development*
-
-Once released:
-1. Install Minecraft Forge 1.20.1
-2. Download the latest release
-3. Drop the .jar in your mods folder
-
-## 🤝 Contributing
-
-Contributions are welcome! This is a community-driven project.
-
-Areas where help is needed:
-- 🎨 Modeling (Blockbench)
-- 🎬 Animation
-- 🖼️ Texturing
-- 💻 Code review
-- 📝 Documentation
-- 🌍 Translation
-
-## 📜 Credits & Inspiration
-
-This project is **inspired by** Fisk's Superheroes by FiskFille.
-
-- ✅ All code is original (built from scratch)
-- ✅ All animations created independently
-- ✅ All textures and assets are original
-- ✅ No assets from Fisk's Superheroes are used
-
-Huge thanks to **FiskFille** for years of incredible inspiration to the 
-Minecraft modding community! 🙏
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🌐 Community
-
-- 💬 Discord: *Coming soon*
-- 🐦 Twitter: *Coming soon*
-- 📺 YouTube: *Coming soon*
 
 ---
 
-Made with ❤️ by [Lafaiete](https://github.com/seu_username)
+## 📜 Credits & Inspiration
+
+This project is **inspired by** [Fisk's Superheroes](https://www.curseforge.com/minecraft/mc-mods/fisks-superheroes) by **FiskFille**.
+
+### 🙏 Special Thanks
+
+- **FiskFille** - For creating Fisk's Superheroes and inspiring this project
+- **The Fiskord Community** - For support and guidance
+- **shadow00dev** - For early feedback and encouragement
+
+### 🎯 Original Work Declaration
+
+- ✅ All code is **100% original** (built from scratch)
+- ✅ All animations created **independently** in Blockbench
+- ✅ All textures and assets are **original**
+- ✅ **No assets** from Fisk's Superheroes are used or copied
+- ✅ This is a **clean-room implementation**
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🌐 Community
+
+- 💬 **Discord**: *Coming soon*
+- 🐦 **Twitter**: *Coming soon*  
+- 📺 **YouTube**: *Coming soon*
+
+---
+
+<div align="center">
+
+### 🇧🇷 Made with ❤️ in Brazil by [Lafaiete](https://github.com/LafaieteOficial2025)
+
+⭐ **If you like this project, please consider giving it a star!** ⭐
+
+</div>
